@@ -2,9 +2,6 @@
 
 I'm Fullstack Javascript Developer Junior.
 
-Skills:
-https://img.shields.io/badge/typescript-TypeScript-blue
-
 <!--
 **MartinRotela/MartinRotela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
