@@ -24,6 +24,7 @@ Backend:
 Database:
 <br/>
 <img src="https://img.shields.io/badge/MongoDb-47A248?style=for-the-badge&logo=MongoDb&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=MySQL&logoColor=white" />
 
 Soon:
 <br/>
